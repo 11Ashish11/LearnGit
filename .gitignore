@@ -1,1 +1,11 @@
 mylogs.log
+#yes this is a comment
+
+#also there are many things that you can do with this file
+#for example ... the above mylogs.log will ignore all the files with this name
+#irespective in whihever interior folder it is present
+#so if we dont want to do it .. there are many options like for doing that stuff
+#also many other things that can be done for example :: 
+#we can include all the files with .log extension by writing *.log
+#there are many other operations like this
+
