@@ -1,0 +1,5 @@
+console.time("The taken is ")
+console.log("Hello this is ashish spealing from the inner folder")
+console.warn("This is a warning")
+console.error("this is an eroor")
+console.timeEnd("The taken is ")
