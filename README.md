@@ -8,3 +8,10 @@ Now to push to github you can use push command
 
 i referred CodeWithHarry's video for the same
 There were many other commands which I learnt , i'll write them down neatly later
+
+
+Also I found one amazing FREE Udacity GIT tutorial course which is covering
+almost every git topic in very systamatic and detailed manner.
+Link -> https://www.udacity.com/course/version-control-with-git--ud123
+
+Highly recommended. 10/10 for the course content and quality 
