@@ -14,3 +14,15 @@ Thank you
 Bye
 :q!
 
+
+Hey so I am back here and i am adding this text because I want some more commits in my file
+
+
+:wq
+
+
+ok so now I am in one older commit that I have made and I am changing this because i wnt to know what new branch will be formed if I commit this with this one extra change !!!!!
+
+
+:wq
+
