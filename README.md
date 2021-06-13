@@ -15,3 +15,5 @@ almost every git topic in very systamatic and detailed manner.
 Link -> https://www.udacity.com/course/version-control-with-git--ud123
 
 Highly recommended. 10/10 for the course content and quality 
+Though its too much old ( its from 2014) .. still it covers pretty much everything
+and i think github haven't much changed since that time.
